@@ -1,2 +1,2 @@
 # Inklix
-Inklix is a social networking android client to work with crypto tokens.
+Inklix is a social networking Android client to work with crypto tokens.
